@@ -54,9 +54,3 @@
 <img src="https://raw.githubusercontent.com/AryanGoswami/AryanGoswami/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AryanGoswami/count.svg?"  />
-</div>
-
-###
