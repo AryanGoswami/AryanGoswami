@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif"  />
 </div>
 
