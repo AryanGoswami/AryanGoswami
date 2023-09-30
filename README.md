@@ -4,17 +4,14 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AryanGoswami&&show_icons=true&theme=dark"  />
-</div>
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanGoswami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AryanGoswami&&show_icons=true&theme=dark" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanGoswami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
 </div>
 
 ###
 
-<br clear="both">
+<br>
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif"  />
@@ -22,7 +19,7 @@
 
 ###
 
-<br clear="both">
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
