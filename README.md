@@ -1,24 +1,4 @@
 <h2 align="left">Hi 👋! My name is Aryan Laxmikant Goswami and I'm a Third year Undergraduate student, from Pune.</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AryanGoswami&&show_icons=true&theme=dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanGoswami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph" />
-</div>
-
-###
-
-<br>
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif"  />
-</div>
-
-###
-
 <br>
 
 <div align="left">
@@ -45,6 +25,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <!--<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" height="30" alt="gazebo logo"  />-->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
+  <!--<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="30" alt="ros logo"  />-->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikitlearn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo"  />
+  <!--<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />-->
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif"  />
 </div>
 
 ###
