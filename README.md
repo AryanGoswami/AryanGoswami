@@ -53,19 +53,12 @@
   <br>
 </div>
 <div>
+  <img align="right" height="200" src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif"  />
+  
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanGoswami&show_icons=true&locale=en&layout=compact" alt="AryanGoswami" /></p>
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AryanGoswami&show_icons=true&locale=en" alt="AryanGoswami" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanGoswami&" alt="AryanGoswami" /></p>
+
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/2xu5zpSV3oqKcCSZ49/giphy.gif"  />
-</div>
-
-###
