@@ -1,6 +1,13 @@
 <h3 align="left">Hi 👋! My name is Aryan Laxmikant Goswami and I'm a Final year Electonics and Telecommunication student at Pune Institute Of Computer Technology(PICT).</h3>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AryanGoswami&label=Profile%20views&color=0e75b6&style=flat" alt="AryanGoswami" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AryanGoswami" alt="AryanGoswami" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aryan-goswami-87148322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryangoswami" height="30" width="40" /></a>
+</p>
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -43,6 +50,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo"  />
   <!--<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />-->
+  <br>
+</div>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanGoswami&show_icons=true&locale=en&layout=compact" alt="AryanGoswami" /></p>
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AryanGoswami&show_icons=true&locale=en" alt="AryanGoswami" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanGoswami&" alt="AryanGoswami" /></p>
 </div>
 
 ###
