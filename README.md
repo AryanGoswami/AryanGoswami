@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Aryan Laxmikant Goswami and I'm a Third year Electonics and Telecommunication student at Pune Institute Of Computer Technology(PICT).</h3>
+<h3 align="left">Hi 👋! My name is Aryan Laxmikant Goswami and I'm a Final year Electonics and Telecommunication student at Pune Institute Of Computer Technology(PICT).</h3>
 <br>
 
 <div align="left">
